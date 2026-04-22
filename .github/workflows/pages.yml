@@ -1,3 +1,4 @@
+# Pages deployment workflow for BISTECCA site
 name: Deploy BISTECCA site to GitHub Pages
 
 on:
